@@ -38,6 +38,12 @@ section {
     width: 45%;
     padding: 12% 27.5%;
 }
+@media only screen and (max-width: 550px) {
+    .logo img {
+        width: 85%;
+        padding: 12% 7.5%;
+    }
+}
 
 /*About section styling*/
 .about article{
@@ -115,10 +121,10 @@ section {
     width: 70%;
     object-fit: cover;
     margin: 0 15%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 4px 4px 8px 1px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
 }
 .project.black img {
-    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.5), 0 6px 20px 0 rgba(255, 255, 255, 0.5);
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.2);
 }
 .project p {
     width: 70%;
@@ -249,6 +255,9 @@ section {
         width: 100%;
         margin: 0;
     }
+    .galleryButton {
+        display: none;
+    }
     .project p, .project .buttons {
         margin-top: 20px;
     }
@@ -275,7 +284,7 @@ footer {
     padding-top: 16px;
 }
 footer article{
-    width: 55%;
+    width: 35%;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -292,4 +301,10 @@ footer article i:hover {
 }
 footer article p {
     font-size: 16px;
+}
+
+@media only screen and (max-width: 550px) {
+    footer article {
+        width: 65%;
+    }
 }

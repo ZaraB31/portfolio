@@ -1,5 +1,4 @@
 import React from "react";
-import PDF from './images/Logo.png';
 
 function footer() {
     return (
@@ -7,7 +6,7 @@ function footer() {
             <article>
                 <a href="https://www.linkedin.com/in/zara-bostock-49857618a/" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin"></i></a>
                 <a href="https://github.com/ZaraB31" target="_blank" rel="noreferrer"><i class="fa-brands fa-github"></i></a>                
-                <a href={ PDF } target="pdf-frame _blank" rel="noreferrer"><i class="fa-solid fa-file-arrow-down"></i></a>
+                <a href="mailto:zarabostock.development@gmail.com" target="_blank" rel="noreferrer"><i class="fa-solid fa-envelope"></i></a>
             </article>
             <article>
                 <p>&copy; Zara Bostock 2022</p>

@@ -44,6 +44,7 @@ function home() {
         var expandImg = project.querySelector("#expandedImage");
         var imgText = project.querySelector('#imageText');
         expandImg.src = image.src;
+        expandImg.alt = image.alt;
         imgText.innerHTML = image.alt;
     }
 
@@ -150,7 +151,7 @@ function home() {
                     such as ERDs and Activity diagrams were used during development, before a Figma design was mocked up.
                 </p>
                 <div className="buttons">
-                    <button><a onClick={() => open("antelopeManagement")}>View Gallery</a></button>
+                    <button className="galleryButton"><a onClick={() => open("antelopeManagement")}>View Gallery</a></button>
                     <button><a href="https://github.com/ZaraB31/AntelopeManagement2.0" target="_blank">View Code</a></button>
                 </div>   
             </section>
@@ -199,7 +200,7 @@ function home() {
                 </p>
 
                 <div className="buttons">
-                    <button><a onClick={() => open("aParryConstruction")}>View Gallery</a></button>
+                    <button className="galleryButton"><a onClick={() => open("aParryConstruction")}>View Gallery</a></button>
                     <button><a href="https://github.com/ZaraB31/AParryConstruction" target="_blank">View Code</a></button>
                 </div>
             </section>
@@ -244,7 +245,7 @@ function home() {
                     All of the content and images were provided by the university.
                 </p>
                 <div className="buttons">
-                    <button><a onClick={() => open("doggieWalks")}>View Gallery</a></button>
+                    <button className="galleryButton"><a onClick={() => open("doggieWalks")}>View Gallery</a></button>
                     <button><a href="https://bitbucket.org/24190241/doggiewalks/src" target="_blank">View Code</a></button>
                 </div>
             </section>
@@ -291,7 +292,7 @@ function home() {
                     update the content, as well as recieve enquiries.
                 </p>
                 <div className="buttons">
-                    <button><a onClick={() => open("megaEV")}>View Gallery</a></button>
+                    <button className="galleryButton"><a onClick={() => open("megaEV")}>View Gallery</a></button>
                     <button><a href="https://github.com/ZaraB31/MegaEV" target="_blank">View Code</a></button>
                 </div>
             </section>        
