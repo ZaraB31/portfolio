@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b81c9370.css",
-    "main.js": "/static/js/main.0e6e1f1a.js",
+    "main.css": "/static/css/main.19b5b7ca.css",
+    "main.js": "/static/js/main.f57d86f0.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/parrys - casestudy.png": "/static/media/parrys - casestudy.0cf81dc323bf58c31780.png",
     "static/media/doggiewalks - gallery.png": "/static/media/doggiewalks - gallery.7e24a954bb57a8ad00cc.png",
@@ -25,12 +25,12 @@
     "static/media/antelope-dashboard.png": "/static/media/antelope-dashboard.3a832978c2e6c8345da2.png",
     "static/media/Logo.png": "/static/media/Logo.0bb726afd5b0963e8fe7.png",
     "index.html": "/index.html",
-    "main.b81c9370.css.map": "/static/css/main.b81c9370.css.map",
-    "main.0e6e1f1a.js.map": "/static/js/main.0e6e1f1a.js.map",
+    "main.19b5b7ca.css.map": "/static/css/main.19b5b7ca.css.map",
+    "main.f57d86f0.js.map": "/static/js/main.f57d86f0.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b81c9370.css",
-    "static/js/main.0e6e1f1a.js"
+    "static/css/main.19b5b7ca.css",
+    "static/js/main.f57d86f0.js"
   ]
 }
