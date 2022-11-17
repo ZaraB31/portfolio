@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b81c9370.css",
+    "main.js": "/static/js/main.0e6e1f1a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/parrys - casestudy.png": "/static/media/parrys - casestudy.0cf81dc323bf58c31780.png",
+    "static/media/doggiewalks - gallery.png": "/static/media/doggiewalks - gallery.7e24a954bb57a8ad00cc.png",
+    "static/media/aParryConstruction.png": "/static/media/aParryConstruction.61301ec225080e23d003.png",
+    "static/media/doggiewalks - home.png": "/static/media/doggiewalks - home.ab8aa5b4108394a34cd4.png",
+    "static/media/megaev-home.png": "/static/media/megaev-home.6a262b685ba66576f337.png",
+    "static/media/megaev-twitter.png": "/static/media/megaev-twitter.c971fd88932991beb8b4.png",
+    "static/media/parrys - home.png": "/static/media/parrys - home.292abb04fd59f42f8646.png",
+    "static/media/doggiewalks - team.png": "/static/media/doggiewalks - team.13972443dd28b228a1d0.png",
+    "static/media/doggiewalks - footer.png": "/static/media/doggiewalks - footer.c1d8771953b16e147477.png",
+    "static/media/megaev-blog.png": "/static/media/megaev-blog.e73abefe232f9060dce0.png",
+    "static/media/parrys - about.png": "/static/media/parrys - about.11a4691ee70e81109d2a.png",
+    "static/media/megaev-brands.png": "/static/media/megaev-brands.8e3085ceffa2b3d5c42c.png",
+    "static/media/antelope-project.png": "/static/media/antelope-project.9ec29496944593460285.png",
+    "static/media/antelope-admin.png": "/static/media/antelope-admin.59bae15d879283accf95.png",
+    "static/media/antelopeManagement.png": "/static/media/antelopeManagement.a63c30b1acd52baa2804.png",
+    "static/media/doggiewalks - contact.png": "/static/media/doggiewalks - contact.75ff7f4b9cd4817b677b.png",
+    "static/media/megaev-contact.png": "/static/media/megaev-contact.a7e61ff3f618d8f982ba.png",
+    "static/media/parrys - contact.png": "/static/media/parrys - contact.91c5d477d01dd498ec34.png",
+    "static/media/antelope-contact.png": "/static/media/antelope-contact.b92adaa25e5ebd9fb22b.png",
+    "static/media/antelope-dashboard.png": "/static/media/antelope-dashboard.3a832978c2e6c8345da2.png",
+    "static/media/Logo.png": "/static/media/Logo.0bb726afd5b0963e8fe7.png",
+    "index.html": "/index.html",
+    "main.b81c9370.css.map": "/static/css/main.b81c9370.css.map",
+    "main.0e6e1f1a.js.map": "/static/js/main.0e6e1f1a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81c9370.css",
+    "static/js/main.0e6e1f1a.js"
+  ]
+}
