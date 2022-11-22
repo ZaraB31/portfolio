@@ -1,6 +1,5 @@
 import React from "react";
 import Logo from "./images/Logo.png";
-import placeholder from "./images/placeholder.jpg";
 import myself from "./images/myself.jpg";
 
 import antelopeManagement from "./images/antelopeManagement.png";
