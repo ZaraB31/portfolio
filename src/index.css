@@ -52,12 +52,13 @@ section {
     justify-content: space-between;
 }
 .about article img {
-    width: 58%;
+    width: 45%;
     max-height: 400px;
     object-fit: cover;
+    margin-left: 5%;
 }
 .about article div {
-    width: 38%;
+    width: 40%;
 }
 @media only screen and (max-width: 940px) {
     .about article {
@@ -73,6 +74,8 @@ section {
 @media only screen and (max-width: 600px) {
     .about article img {
         width: 100%;
+        margin: 0;
+        max-height: 250px;
     }
     .about article div {
         width: 100%;

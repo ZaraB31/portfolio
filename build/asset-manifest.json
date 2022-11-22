@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.19b5b7ca.css",
-    "main.js": "/static/js/main.f57d86f0.js",
+    "main.css": "/static/css/main.2a476300.css",
+    "main.js": "/static/js/main.e2d500ab.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/parrys - casestudy.png": "/static/media/parrys - casestudy.0cf81dc323bf58c31780.png",
     "static/media/doggiewalks - gallery.png": "/static/media/doggiewalks - gallery.7e24a954bb57a8ad00cc.png",
@@ -10,6 +10,7 @@
     "static/media/megaev-home.png": "/static/media/megaev-home.6a262b685ba66576f337.png",
     "static/media/megaev-twitter.png": "/static/media/megaev-twitter.c971fd88932991beb8b4.png",
     "static/media/parrys - home.png": "/static/media/parrys - home.292abb04fd59f42f8646.png",
+    "static/media/myself.jpg": "/static/media/myself.3287dfa50b14345ef629.jpg",
     "static/media/doggiewalks - team.png": "/static/media/doggiewalks - team.13972443dd28b228a1d0.png",
     "static/media/doggiewalks - footer.png": "/static/media/doggiewalks - footer.c1d8771953b16e147477.png",
     "static/media/megaev-blog.png": "/static/media/megaev-blog.e73abefe232f9060dce0.png",
@@ -25,12 +26,12 @@
     "static/media/antelope-dashboard.png": "/static/media/antelope-dashboard.3a832978c2e6c8345da2.png",
     "static/media/Logo.png": "/static/media/Logo.0bb726afd5b0963e8fe7.png",
     "index.html": "/index.html",
-    "main.19b5b7ca.css.map": "/static/css/main.19b5b7ca.css.map",
-    "main.f57d86f0.js.map": "/static/js/main.f57d86f0.js.map",
+    "main.2a476300.css.map": "/static/css/main.2a476300.css.map",
+    "main.e2d500ab.js.map": "/static/js/main.e2d500ab.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19b5b7ca.css",
-    "static/js/main.f57d86f0.js"
+    "static/css/main.2a476300.css",
+    "static/js/main.e2d500ab.js"
   ]
 }

@@ -1,6 +1,7 @@
 import React from "react";
 import Logo from "./images/Logo.png";
 import placeholder from "./images/placeholder.jpg";
+import myself from "./images/myself.jpg";
 
 import antelopeManagement from "./images/antelopeManagement.png";
 import antelopeAdmin from "./images/antelope-admin.png";
@@ -57,7 +58,7 @@ function home() {
             <section className="about">
                 <h1>About Me</h1>
                 <article>
-                    <img src={ placeholder} alt="" />
+                    <img src={ myself } alt="" />
                     <div>
                         <p>Hi, I'm Zara, a full stack developer based in North Wales. I started my coding journey in 2018 
                             and from there went on to recieve a 2:1 degree in Website Design and Developement from Edge 
